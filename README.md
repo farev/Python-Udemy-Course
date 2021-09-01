@@ -3,3 +3,4 @@ This are the projects I worked on in the The Python Mega Course: Build 10 Real W
 Link to the course: https://www.udemy.com/course/the-python-mega-course/
 
 In this course they teach you to create 10 aplications with different uses.
+This programs where created in Visual Studio Code and you can run them there.
